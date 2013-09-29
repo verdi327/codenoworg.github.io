@@ -61,8 +61,9 @@ Have the students practice running the program and ask them to explain how the p
 ### Step 3 - Writing pseudocode
 
 Work together with the class to first write pseudocode for the Hi-Lo game. Explain the following key concepts: 
-1. The number sign indicates that a line is a comment that will not be run by the computer.
-2. Much like writers create outlines to set up their essay, programmers will often write pseudocode to help set up their code.
+
+1. The number sign indicates that a line is a comment that will not be run by the computer
+2. Much like writers create outlines to set up their essay, programmers will often write pseudocode to help set up their code
 
 For the first iteration of the game, this is roughly what the pseudocode should look like:
 
