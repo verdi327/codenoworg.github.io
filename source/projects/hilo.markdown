@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Hi-Lo Guessing Game
-sharing: true
-footer: true
+sidebar: true
 ---
 
 In this project, students will build a procedural version of the Hi-Lo Guessing Game.
