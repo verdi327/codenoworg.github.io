@@ -20,7 +20,7 @@ Learning Goals:
 <p>This tutorial is open source. If you notice errors, typos, or have questions/suggestions, please <a href="#">submit them to the project on Github</a>.</p>
 </div>
 
-## Iteration 0: Up & Running
+## Iteration 0: Up & running
 
 Have the students create a new file called `hilo.rb` in a codenow directory.
 
