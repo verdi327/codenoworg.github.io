@@ -71,7 +71,7 @@ Click on "Settings - User" which should bring you to a blank file. Paste in the 
   "draw_white_space": "all",
   "folder_exclude_patterns": [".git"],
   "font_face": "Monaco",
-  "font_size": 23.0,
+  "font_size": 14.0,
   "ignored_packages":
   [
     "Vintage"
