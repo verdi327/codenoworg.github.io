@@ -12,7 +12,7 @@ Learning Goals:
 * Learn how to replicate many of the explorer actions without the use of a mouse
 
 <div class="note">
-<p>This tutorial is open source. If you notice errors, typos, or have questions/suggestions, please <a href="#">submit them to the project on Github</a>.</p>
+<p>This tutorial is open source. If you notice errors, typos, or have questions/suggestions, please <a href="https://github.com/CodeNowOrg/codenoworg.github.io">submit them to the project on Github</a>.</p>
 </div>
 
 ## Overview

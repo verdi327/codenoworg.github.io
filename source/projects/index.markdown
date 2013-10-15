@@ -3,4 +3,4 @@ layout: page
 title: Curriculum
 ---
 
-{% section projects/week_one.markdown %}
+{% section projects/weekly_curriculum.markdown %}
